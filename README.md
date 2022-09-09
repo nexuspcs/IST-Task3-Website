@@ -1,4 +1,4 @@
-# IST-TASK-3-WEBSITE
+# IST-Task-3-Website
 This repository is for a school assignment.
 
 If you are interested in learning more, feel free to contact me using my [personal email](mailto:jamescoates06@gmail.com) or by using one of my [business accounts](mailto:james@windcloud.com.au)
