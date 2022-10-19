@@ -1,5 +1,5 @@
  .u-section-1 {
-  background-image: url("images/homePGbanner.jpg");
+  background-image: url("/images/homePGbanner.jpg");
   background-position: 50% 50%;
 }
 
@@ -40,7 +40,7 @@
 .u-section-2 .u-sheet-1 {
   min-height: 85px;
 } .u-section-3 {
-  background-image: linear-gradient(0deg, rgba(0,0,0,0.7), rgba(0,0,0,0.7)), url("images/gradientwallpaper.jpg");
+  background-image: linear-gradient(0deg, rgba(0,0,0,0.7), rgba(0,0,0,0.7)), url("/images/gradientwallpaper.jpg");
   background-position: 50% 50%;
 }
 
