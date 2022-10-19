@@ -1,3 +1,5 @@
+[![pages-build-deployment](https://github.com/nexuspcs/IST-Task3-Website/actions/workflows/pages/pages-build-deployment/badge.svg?branch=main)](https://github.com/nexuspcs/IST-Task3-Website/actions/workflows/pages/pages-build-deployment)
+
 # IST-Task-3-Website
 This repository is for a school assignment.
 **Click ***[here](https://nexuspcs.github.io/IST-Task3-Website/)*** to view the site.**
